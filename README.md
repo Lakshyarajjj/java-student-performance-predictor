@@ -19,5 +19,5 @@ A headless, non-interactive Java command-line application designed to process st
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/lakshya25bai10306-droid/java-student-performance-predictor.git](https://github.com/lakshya25bai10306-droid/java-student-performance-predictor.git)
+   git clone [https://github.com/Lakshyarajjj/java-student-performance-predictor.git](https://github.com/Lakshyarajjj/java-student-performance-predictor.git)
    cd java-student-performance-predictor
